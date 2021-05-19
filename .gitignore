@@ -1,0 +1,20 @@
+# Ignore node modules folder
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# Ignore all intellij .idea foler
+.idea
+
+# Ignore all MacOS system file
+.DS_Store
+
+# Ignore all firebase cache
+.firebase
